@@ -439,7 +439,7 @@ The seed list included several names I could not confirm as real BO2 *PS3 SPRX* 
 
 ---
 
-## Community
+## Join Our Discord
 
 - **Discord:** unosdopplegange
 - **Discord server:** https://discord.gg/MDcaC5nPuA
