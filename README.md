@@ -436,3 +436,10 @@ The seed list included several names I could not confirm as real BO2 *PS3 SPRX* 
 ---
 
 *Guide for Richard's BO2 SPRX repo. Menus are listed with creators credited; nothing here is claimed to work until tested on real hardware.*
+
+---
+
+## Community
+
+- **Discord:** unosdopplegange
+- **Discord server:** https://discord.gg/MDcaC5nPuA
