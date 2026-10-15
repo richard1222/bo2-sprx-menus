@@ -1,5 +1,12 @@
 # Call of Duty: Black Ops 2 — PS3 SPRX Mod Menus: The Definitive Guide
 
+---
+
+## Join Our Discord
+
+- **Discord:** unosdopplegange
+- **Discord server:** https://discord.gg/MDcaC5nPuA
+
 > Research compiled 2026-10-10. Every menu below is a real, publicly-released SPRX (or SPRX loader/pack) for BO2 on PS3. Creators are credited. Compatibility is stated where it could be established; where it couldn't, it's marked unknown rather than guessed.
 
 ---
@@ -436,10 +443,3 @@ The seed list included several names I could not confirm as real BO2 *PS3 SPRX* 
 ---
 
 *Guide for Richard's BO2 SPRX repo. Menus are listed with creators credited; nothing here is claimed to work until tested on real hardware.*
-
----
-
-## Join Our Discord
-
-- **Discord:** unosdopplegange
-- **Discord server:** https://discord.gg/MDcaC5nPuA
