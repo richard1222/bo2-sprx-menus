@@ -59,6 +59,8 @@ Many releases bundle both: an SPRX injector that loads a set of GSC menus from `
 - **CCAPI works on CEX; TMAPI is DEX-only.** RTM-based GSC injection needs one of them; native SPRX menus need neither once the EBOOT+SPRX are in place.
 - **NPUB31054 (US digital)** — most SPRX menus are coded for BLUS/BLES memory layouts; digital-version users historically had trouble with off-host menus.
 
+> **Author's current setup (updated 2026-10-21):** PS3 Slim on **Evilnat 4.93 CEX** (previously Rebug 4.84.2 DEX). On CEX, the DEX-EBOOT menus in this catalog will not load as-is — the practical paths are the **Lunar SPRX** (separate CFW and HEN builds) and **Zeam's 100+ SPRX Mod Installer** (HEN builds). The catalog is unchanged: compatibility is listed per menu as released.
+
 ---
 
 ## Complete SPRX Menu Catalog
